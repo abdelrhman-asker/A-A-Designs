@@ -1,0 +1,30 @@
+
+.MyLogo1 {
+    color: blueviolet;
+}
+.MyLogo1:hover {
+    color: rgb(132, 0, 255);
+}
+.landing {
+    min-height: calc(100vh - 56px);
+    color: white;
+        
+}
+.landing h6 {
+    margin-bottom: 50px;
+}
+.nav-item {
+    margin-right: 15px;
+}
+
+.MyCont1 {
+    margin-top: 30px;
+}
+.myShow i {
+    color: black;
+    font-size: 26px;
+}
+
+footer a {
+    text-decoration: none;
+}
