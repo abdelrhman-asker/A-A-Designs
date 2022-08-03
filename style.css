@@ -6,7 +6,7 @@
     color: rgb(132, 0, 255);
 }
 .landing {
-    min-height: calc(100vh - 56px);
+    min-height: calc(100vh);
     color: white;
         
 }
